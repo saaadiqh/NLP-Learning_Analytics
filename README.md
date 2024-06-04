@@ -2,7 +2,7 @@
 2023/24 CS350 Data Science Project - The University of Warwick
 
 ## Title
-Developing Natural Language Processing tools to enhance Learning Analytics in Higher Education
+Developing Natural Language Processing tools to enhance Learning Analytics in Higher Education. Creating an automated dashboard that diagnoses strengths and weaknesses from educational data.
 
 
 https://github.com/saaadiqh/NLP_Learning_Analytics/assets/119862810/1de690ce-a317-48b1-9a06-c961f1766d1a
