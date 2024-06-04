@@ -9,7 +9,6 @@ Creating an automated dashboard that diagnoses strengths and weaknesses from edu
 https://github.com/saaadiqh/NLP_Learning_Analytics/assets/119862810/1de690ce-a317-48b1-9a06-c961f1766d1a
 
 
-
 ## Requirements
 Python 3.11
 
@@ -20,29 +19,26 @@ It is recommended to create a virtual environment in which to install the above 
 ## Installation and Running
 To generate the dashboard UI that produces the model results using the command line:
 
-1. From command line, go to the directory of the project folder (called <code>):
+1. From command line, go to the directory of the project folder (called code):
 
-    cd <path>/code
+<code> cd file_path/code</code>
 
+2. Create a virtual environment in this directory (must have python3 already installed on the computer):
 
-2. Activate the virtual environment:
+ <code> python3 -m venv environment_name</code>
 
-  source <environment_name>/bin/activate
+3. Activate the virtual environment:
 
-Here <environment_name> = myenv
+<code>  source environment_name/bin/activate</code>
 
-3. Install the required libraries and packages from requirements.txt file using PIP (must install if you do not have):
+4. Install the required libraries and packages from requirements.txt file using PIP (must install if you do not have):
 
-  pip install -r requirements. txt
+<code>  pip install -r requirements.txt </code>
 
+5. Run the code: 
 
-4. Run the code: 
-
-  <environment_name>/bin/python3.11 "src/main.py"
-
+<code>  environment_name/bin/python3.11 "src/main.py" </code>
 
 
 ## Contributors
 Main contributor: Sadiq Habib
-
-Supervisor: Dr Martyn Parker
