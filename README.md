@@ -5,11 +5,11 @@
 Developing Natural Language Processing tools to enhance Learning Analytics in Higher Education.
 Creating an automated dashboard that diagnoses strengths and weaknesses from educational data using NLP concepts in the following order:
 
-1. Sentiment Analysis: seperate strengths from areas for improvements.
+1. Sentiment Analysis: seperate out strengths and areas for improvements.
 
-2. Topic Modelling: identify overarching topics in each sentiment.
+2. Topic Modelling: identify overarching topics for each sentiment category.
 
-3. Extractive Text Summarisation: identify themes and key talking points in each topic.
+3. Extractive Text Summarisation: identify themes and key talking points for each topic.
 
 4. Abstractive Text Summarisaton (optional): create summary diagnosis for each topic.
 
