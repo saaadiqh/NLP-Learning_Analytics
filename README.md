@@ -3,7 +3,15 @@
 
 ## Title
 Developing Natural Language Processing tools to enhance Learning Analytics in Higher Education.
-Creating an automated dashboard that diagnoses strengths and weaknesses from educational data.
+Creating an automated dashboard that diagnoses strengths and weaknesses from educational data using NLP concepts in the following order:
+
+1. Sentiment Analysis: seperate strengths from areas for improvements.
+
+2. Topic Modelling: identify overarching topics in each sentiment.
+
+3. Extractive Text Summarisation: identify themes and key talking points in each topic.
+
+4. Abstractive Text Summarisaton (optional): create summary diagnosis for each topic.
 
 
 https://github.com/saaadiqh/NLP_Learning_Analytics/assets/119862810/1de690ce-a317-48b1-9a06-c961f1766d1a
